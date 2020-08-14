@@ -8,7 +8,7 @@
 
 [【持续更新】大前端方面的资料 & 在杭州安定下来工作之后的学习总结](https://github.com/maxlxq/interview)
 
-个人方向：React技术栈
+个人方向：大前端，偏React技术栈
 - React、React-Router、Redux、Hooks、Mbox、Immutable、Webpack。
 - React-Native、React-Navigation、Saga、babel。
 - RN开发跨端APP，0.49.1 ～ 0.63.2 持续跟进并上线多款APP。
