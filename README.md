@@ -27,7 +27,7 @@
 
 ----------- 2020全年计划 -----------
 
-- [ ] 开源一个RN项目
+- [x] 开源一个RN项目：[react-native-demo](https://github.com/maxlxq/demo2)
 - [ ] 用Flutter改写
 - [ ] 上架到App Store
 - [ ] 前端进阶，整理前端图谱
