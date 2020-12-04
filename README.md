@@ -1,3 +1,6 @@
+[![maxlxq's github stats](https://github-readme-stats.vercel.app/api?username=maxlxq&count_private=true&show_icons=true&theme=radical)](https://github.com/maxlxq)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on HangZhou.
