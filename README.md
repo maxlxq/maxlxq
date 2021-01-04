@@ -25,8 +25,26 @@
 
 以上，thx。
 
------------ 2020全年计划 -----------
 
+----------- 2021预备计划 -----------
+
+- [x] 继续丰富RN项目：[react-native-demo](https://github.com/maxlxq/demo2)
+- [ ] 上架一款个人应用到App Store
+- [ ] 前端进阶，整理前端图谱
+- [ ] JS剖析，阅读JS红宝书并整理笔记
+- [ ] NodeJS介入开发，编写个人cli
+- [ ] mongo使用，结合next.js，编写一套api
+- [ ] Redis 学习，并产出文档，应用到生产环境
+- [ ] Git纯命令行处理工作
+- [ ] 12篇技术博客
+  - [ ] 1. Fiber 解读
+- [ ] React-Navigation 官网部分翻译
+
+-----------  E - N - D  -----------
+
+
+----------- 2020全年计划(完成度 4/22) -----------
+<!--
 - [x] 开源一个RN项目：[react-native-demo](https://github.com/maxlxq/demo2)
 - [ ] 用Flutter改写
 - [ ] 上架到App Store
@@ -35,10 +53,10 @@
 - [ ] NodeJS介入开发
 - [ ] mongo使用，并产出使用文档
 - [ ] Redis 学习，并产出文档
-- [ ] Git纯命令行处理工作
+- [x] Git纯命令行处理工作
 - [ ] 12篇技术博客
-  - [ ] 1. Hook
-  - [ ] 2. Git
+  - [x] 1. Hook
+  - [x] 2. Git
   - [ ] 3. Webpack
   - [ ] 4. Babel
   - [ ] 5. Mongo
@@ -50,7 +68,7 @@
   - [ ] 11. Flutter
   - [ ] 12. TypeScript
 - [ ] React-Navigation 官网部分翻译
-
+-->
 -----------  E - N - D  -----------
 
 <!--
