@@ -14,7 +14,7 @@
 个人方向：大前端，偏React技术栈
 - React、React-Router、Redux、Hooks、MoXx、Immutable、Webpack。
 - React-Native、React-Navigation、Saga、babel。
-- RN开发跨端APP，0.49.1 ～ 0.63.2 持续跟进并上线多款APP。
+- RN开发跨端APP，0.49.1 ～ 0.63.4 持续跟进并上线多款APP。
 - 学习iOS开发中，拓展原生知识广度。
 - Taro学习中，初级使用 v3.0.5。
 - 学习Jenkins，CI/CD基本知识和应用。
