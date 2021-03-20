@@ -9,7 +9,8 @@
 - 📫 How to reach me: li542168513@icloud.com
 
 
-[【持续更新】大前端方面的资料 & 在杭州安定下来工作之后的学习总结](https://github.com/maxlxq/interview)
+[在杭州安定下来工作之后的学习总结](https://github.com/maxlxq/interview)
+[【持续更新】大前端系列知识博客](https://blog.ahulib.com)
 
 个人方向：大前端，偏React技术栈
 - React、React-Router、Redux、Hooks、MoXx、Immutable、Webpack。
