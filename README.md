@@ -10,6 +10,7 @@
 
 
 [在杭州安定下来工作之后的学习总结](https://github.com/maxlxq/interview)
+
 [【持续更新】大前端系列知识博客](https://blog.ahulib.com)
 
 个人方向：大前端，偏React技术栈
@@ -17,9 +18,9 @@
 - React-Native、React-Navigation、Saga、babel。
 - RN开发跨端APP，0.49.1 ～ 0.63.4 持续跟进并上线多款APP。
 - 学习iOS开发中，拓展原生知识广度。
-- Taro学习中，初级使用 v3.0.5。
-- 学习Jenkins，CI/CD基本知识和应用。
-- 服务器爱好者，Docker和K8S学习+demo使用，熟练部署openresty环境，内网穿透和反向代理使用较多。
+- Taro学习中，业务使用 v3.2.10
+- 总结Jenkins，CI/CD基本知识和应用。
+- 服务器爱好者，Docker和K8S学习+demo使用，熟练部署openresty环境，frp内网穿透和nginx反向代理使用较多。
 - Flutter未来趋势，持续跟进。
 - Vue 3 未来已来。
 - Fighting 好少年！
@@ -29,10 +30,10 @@
 
 ----------- 2021预备计划 -----------
 
-- [x] 继续丰富RN项目：[react-native-demo](https://github.com/maxlxq/demo2)
+- [x] RN组件库项目：[dan-react-native](https://github.com/maxlxq/dan-react-native)
 - [ ] 上架一款个人应用到App Store
-- [ ] 前端进阶，整理前端图谱
-- [ ] JS剖析，阅读JS红宝书并整理笔记
+- [x] 前端进阶，整理前端图谱
+- [x] JS剖析，阅读JS红宝书并整理笔记
 - [ ] NodeJS介入开发，编写个人cli
 - [ ] mongo使用，结合next.js，编写一套api
 - [ ] Redis 学习，并产出文档，应用到生产环境
