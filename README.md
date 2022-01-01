@@ -13,23 +13,35 @@
 
 [【持续更新】大前端系列知识博客](https://blog.ahulib.com)
 
-个人方向：大前端，偏React技术栈
-- React、React-Router、Redux、Hooks、MoXx、Immutable、Webpack。
+个人方向：大前端，偏React技术栈，TypeScript
+- React、React-Router、Redux、Hooks、Mobx、Immutable、Webpack、ESBuild。
 - React-Native、React-Navigation、Saga、babel。
-- RN开发跨端APP，0.49.1 ～ 0.63.4 持续跟进并上线多款APP。
-- 学习iOS开发中，拓展原生知识广度。
-- Taro学习中，业务使用 v3.2.10
-- 总结Jenkins，CI/CD基本知识和应用。
-- 服务器爱好者，Docker和K8S学习+demo使用，熟练部署openresty环境，frp内网穿透和nginx反向代理使用较多。
-- Flutter未来趋势，持续跟进。
-- Vue 3 未来已来。
-- Fighting 好少年！
+- 更多跨端框架学习，包括但不限于 Flutter、Electron。
+- 组件库、工具库开发上架，详见 [4-future](https://github.com/4-future)
+- 服务器 + Nginx 配置，部署上线 一套管理系统，一套电商网站，一套服务端接口，对应三台轻量应用服务器。
+- Vue 3 + Vite 2 + TS 电商平台。
+- React 17/18 + React-Router-dom + Fusion + TS + esbuild 管理系统。
+- Next SSR/SSG 实现服务端 + 电商部分网站。
+- 了解更多 CI/CD 相关。
 
-以上，thx。
+以上，好运！
+
+----------- 2022 计划 -----------
+
+- [ ] 工具库项目：[@4-future/dan-repo](https://github.com/4-future/dan-repo)
+- [ ] 上架一款 Mac 桌面应用到 App Store
+- [ ] 前端基础夯实，完成6篇基础知识整理文章
+- [ ] JS 剖析，阅读JS红宝书并整理笔记，同步公众号
+- [ ] Webpack、gulp、rullup、vite 学习和比较异同，用 Demo 项目展示
+- [ ] shell 编写一套 Git 命令处理工作，尽量使用 Electron 完成桌面应用，可视化操作
+- [ ] 6 篇进阶技术博客
+- [ ] React 18 相关文章跟进，阅读 Dan 文章，深度理解 React 源码
+
+-----------  E - N - D  -----------
 
 
------------ 2021预备计划 -----------
-
+----------- 2021全年计划(完成度 5/10) -----------
+<!--
 - [x] RN组件库项目：[dan-react-native](https://github.com/maxlxq/dan-react-native)
 - [ ] 上架一款个人应用到App Store
 - [x] 前端进阶，整理前端图谱
@@ -43,6 +55,7 @@
 - [ ] React-Navigation 官网部分翻译
 
 -----------  E - N - D  -----------
+-->
 
 
 ----------- 2020全年计划(完成度 4/22) -----------
@@ -70,8 +83,9 @@
   - [ ] 11. Flutter
   - [ ] 12. TypeScript
 - [ ] React-Navigation 官网部分翻译
--->
+
 -----------  E - N - D  -----------
+-->
 
 <!--
 **maxlxq/maxlxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
