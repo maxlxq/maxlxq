@@ -9,7 +9,9 @@
 - 📫 How to reach me: li542168513@icloud.com
 
 
-[在杭州安定下来工作之后的学习总结](https://github.com/maxlxq/interview)
+[好久没更新的学习总结](https://github.com/maxlxq/interview)
+
+需要一个契机，继续开启！
 
 [【持续更新】大前端系列知识博客](https://blog.ahulib.com)
 
@@ -19,26 +21,40 @@
 - 更多跨端框架学习，包括但不限于 Flutter、Electron。
 - 组件库、工具库开发上架，详见 [4-future](https://github.com/4-future)
 - 服务器 + Nginx 配置，部署上线 一套管理系统，一套电商网站，一套服务端接口，对应三台轻量应用服务器。
-- Vue 3 + Vite 2 + TS 电商平台。
-- React 17/18 + React-Router-dom + Fusion + TS + esbuild 管理系统。
+- 微前端技术，子应用接入教学。
+- APP、Web、Desktop APP等多端开发。
 - Next SSR/SSG 实现服务端 + 电商部分网站。
 - 了解更多 CI/CD 相关。
 
 以上，好运！
 
------------ 2022 计划 -----------
+----------- 2023全年计划 -----------
 
-- [ ] 工具库项目：[@4-future/dan-repo](https://github.com/4-future/dan-repo)
+- [ ] 个人APP项目：Memory
+- [ ] RN开发技术博客更新：项目搭建及升级、构建环境隔离、自动化构建、TS应用、网络封装及鉴权技术、全链路监控、权限控制、推送服务、icloud云服务、Xcode云构建、Redux+Saga中间件、E2E测试、代码覆盖率检测、metro分包优化、直播技术及切片回放、动画、云存储服务、TestFlight测试、GitHub Action脚本构建。
+- [ ] Flutter demo项目
+- [ ] dan-cli 命令编写
+- [ ] webpack、vite、esbuild、rollup 学习及分享
+- [ ] 公众号更新：React的版本变迁及源码分解
+- [ ] PHA在端内应用试点
+- [ ] python服务端及爬虫技术
+- [ ] 尝试原生开发 Swift，并结合 RN框架进行提效
+
+-----------  E - N - D  -----------
+
+----------- 2022全年计划(完成度 2/8) -----------
+<!--
+- [x] 工具库项目：[@4-future/dan-repo](https://github.com/4-future/dan-repo)
 - [ ] 上架一款 Mac 桌面应用到 App Store
-- [ ] 前端基础夯实，完成6篇基础知识整理文章
-- [ ] JS 剖析，阅读JS红宝书并整理笔记，同步公众号
+- [x] 前端基础夯实，完成6篇基础知识整理文章
+- [x] JS 剖析，阅读JS红宝书并整理笔记，同步公众号
 - [ ] Webpack、gulp、rullup、vite 学习和比较异同，用 Demo 项目展示
 - [ ] shell 编写一套 Git 命令处理工作，尽量使用 Electron 完成桌面应用，可视化操作
 - [ ] 6 篇进阶技术博客
 - [ ] React 18 相关文章跟进，阅读 Dan 文章，深度理解 React 源码
 
 -----------  E - N - D  -----------
-
+-->
 
 ----------- 2021全年计划(完成度 5/10) -----------
 <!--
