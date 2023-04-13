@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=maxlxq&color=green)
 [![maxlxq's github stats](https://github-readme-stats.vercel.app/api?username=maxlxq&count_private=true&show_icons=true&theme=radical)](https://github.com/maxlxq)
 
 
@@ -8,9 +9,6 @@
 - 💬 Ask me about front-end.
 - 📫 How to reach me: li542168513@icloud.com
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/vanessaaleung/count.svg" alt="Visitor Count" />
-</p>
 
 - 💻 Data Science and Web Development enthusiast
 - 📫 Reach me at: vjcliang@ucdavis.edu
