@@ -8,6 +8,14 @@
 - 💬 Ask me about front-end.
 - 📫 How to reach me: li542168513@icloud.com
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/vanessaaleung/count.svg" alt="Visitor Count" />
+</p>
+
+- 💻 Data Science and Web Development enthusiast
+- 📫 Reach me at: vjcliang@ucdavis.edu
+- ✨ Check out my portfolio: https://vanessaaleung.github.io/portfolio
+- 📝 and my Medium blog: http://medium.com/@vanessaaleung
 
 [好久没更新的学习总结](https://github.com/maxlxq/interview)
 
