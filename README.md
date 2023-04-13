@@ -1,6 +1,5 @@
-<p>
-  ![](https://komarev.com/ghpvc/?username=maxlxq&color=green)
-</p>
+![](https://komarev.com/ghpvc/?username=maxlxq&color=green)
+
 [![maxlxq's github stats](https://github-readme-stats.vercel.app/api?username=maxlxq&count_private=true&show_icons=true&theme=radical)](https://github.com/maxlxq)
 
 
