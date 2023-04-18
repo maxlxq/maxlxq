@@ -37,7 +37,7 @@
 
 ----------- 2023全年计划 -----------
 
-- [ ] 个人APP项目：Memory
+- [ ] 个人APP项目：Memory Family
 - [ ] RN开发技术博客更新：项目搭建及升级、构建环境隔离、自动化构建、TS应用、网络封装及鉴权技术、全链路监控、权限控制、推送服务、icloud云服务、Xcode云构建、Redux+Saga中间件、E2E测试、代码覆盖率检测、metro分包优化、直播技术及切片回放、动画、云存储服务、TestFlight测试、GitHub Action脚本构建。
 - [ ] Flutter demo项目
 - [ ] dan-cli 命令编写
