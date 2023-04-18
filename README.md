@@ -6,15 +6,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on HangZhou.
-- 🌱 I’m currently learning React Hooks.
-- 💬 Ask me about front-end.
+- 🌱 I’m currently learning React & Flutter & Node.
 - 📫 How to reach me: li542168513@icloud.com
-
-
-- 💻 Data Science and Web Development enthusiast
-- 📫 Reach me at: vjcliang@ucdavis.edu
-- ✨ Check out my portfolio: https://vanessaaleung.github.io/portfolio
-- 📝 and my Medium blog: http://medium.com/@vanessaaleung
 
 [好久没更新的学习总结](https://github.com/maxlxq/interview)
 
